@@ -13,7 +13,7 @@ Feature: ZenClass Login & Logout (Allure)
     Examples:
       # Use a test account that does NOT trigger OTP/CAPTCHA.
       | username                     | password        |
-      | surbhi1105520@gmail.com | Avnisingh@2575 |
+      | surbhXXX@gmail.com | AvNNN5 |
 
   @failure
   Scenario Outline: Unsuccessful login with invalid credentials
